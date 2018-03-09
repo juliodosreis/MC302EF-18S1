@@ -8,7 +8,7 @@
 </p>
 <!-- Fim de workaround com HTML -->
 
-**Professor:** Julio Cesar Reis
+**Professor:** Julio Cesar dos Reis
 
 **Monitores:**
   - Alexandre Rodrigues Gomes (PED);
