@@ -1,11 +1,11 @@
 		// TODO: Incorporar instanciamentos e testes no método main da classe Principal
-		Funcionario func1 = Funcionario(1, "Arthur", "51051051099");
-		Aluno aluno1 = Aluno(500001, "joão", "11122233399", 40);
+		Funcionario func1 = new Funcionario(1, "Arthur", "51051051099");
+		Aluno aluno1 = new Aluno(500001, "joão", "11122233399", 40);
 
 		func1.imprimeDados();
 		func1.setMatricula(-2);
 		func1.setNome("Ar");
-		func1.setCPF(123);
+		func1.setCPF("123");
 		System.out.println( "Funcionario modificado(?): ");
 		func1.imprimeDados();
 
