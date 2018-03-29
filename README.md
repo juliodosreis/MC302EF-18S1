@@ -19,3 +19,4 @@ ___
 
 - [Laboratório 01](LAB01/enunciado.md) (Publicação: 13/03, **Entrega: 19/03**).
 - [Laboratório 02](LAB02/enunciado.md) (Publicação: 20/03, **Entrega: 26/03**).
+- [Laboratório 03](LAB03/enunciado.md) (Publicação: 29/03, **Entrega: 04/04**).
