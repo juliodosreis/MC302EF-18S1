@@ -164,7 +164,7 @@ Os seguintes critérios de avaliação serão analisados:
 
 Critérios específicos:
 - Modelagem e implementação da classe `Disciplina` (1pts);
-- Tratamento das listas de cursos e disciplinas e seus alunos (3pts);
+- Tratamento das listas de disciplinas e seus alunos (3pts);
 - Remoção de alunos indicados e exibição em tela de matrículas por disciplina (3pts);
 - Armazenamento eficiente da lista de funcionários fornecidos (2pt);
 - Uso coerente dos conceitos de POO, indentação e organização do código (1pts).
