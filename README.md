@@ -24,4 +24,4 @@ ___
 - [Laboratório 05](LAB05/enunciado.md) (Publicação: 14/04, **Entrega: 23/04**).
 - [Laboratório 06](LAB06/enunciado.md) (Publicação: 25/04, **Entrega: 09/05**).
 - [Laboratório 07](LAB07/enunciado.md) (Publicação: 16/05, **Entrega: 25/05**).
-- [Laboratório 09](LAB08/enunciado.md) (Publicação: 07/06, **Entrega: 25/05**).
+- [Laboratório 08](LAB08/enunciado.md) (Publicação: 30/05, **Entrega: 07/06**).
